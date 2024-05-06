@@ -1,0 +1,12 @@
+body {
+  background: linear-gradient(
+    to bottom,
+    #4CAF50 0%, /* Dark Green */
+    #2E7D32 30%, /* Medium Green */
+    #1B5E20 60%, /* Deep Green */
+    #1B5E20 80%, /* Deep Green */
+    #388E3C 100% /* Light Green */
+  );
+  min-height: 1200px;
+  background-size: contain;
+}
